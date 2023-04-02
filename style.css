@@ -1,0 +1,19 @@
+.nav__wrapper{
+    margin: 0px auto;
+    width: 80%;
+    height: 100px;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(57, 57, 57);
+    grid-column-gap: 20%;
+    cursor: pointer;
+}
+.nav__items:hover{
+    color: rgb(176, 221, 39);
+}
+.text{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}

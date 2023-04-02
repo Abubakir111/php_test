@@ -1,0 +1,1 @@
+<div class="text">тут товары</div>
